@@ -19,7 +19,7 @@ Para el uso de Skills se uso:
 https://www.skills.sh
 
 Para angular usamos la skills:
-npx skills add https://github.com/mindrally/skills --skill angular
+npx skills add https://github.com/angular/skills
 
 Para express la skills:
 npx skills add https://github.com/wshobson/agents --skill nodejs-backend-patterns
